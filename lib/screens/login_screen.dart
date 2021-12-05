@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+
 import 'package:adaptive_dialog/adaptive_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -29,8 +30,8 @@ class _LoginScreenState extends State<LoginScreen> {
            mainAxisAlignment: MainAxisAlignment.center,
            children:<Widget>[
              _showLogo(),
-             _showGoogleLogin()
-
+             _showGoogleLogin(),
+             
            ],
          )
          ),
@@ -69,7 +70,7 @@ Widget _showGoogleLogin() {
 
  
 
- //desde aca copie
+
 
 void _loginGoogle() async {
     var googleSignIn = GoogleSignIn();
