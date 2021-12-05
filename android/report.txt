@@ -1,0 +1,72 @@
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\migue\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B0:FB:0E:E1:99:10:FD:B6:C9:0E:EC:B3:C2:4D:AE:41
+SHA1: 9C:7D:29:D3:58:33:C6:81:CD:A0:43:C2:F4:97:27:F9:EC:54:2F:F6
+SHA-256: 84:CC:09:2B:A6:00:62:A9:B7:51:1C:5D:6C:90:02:F5:A7:0D:4F:C0:55:31:C5:25:BB:7F:A7:A5:D8:F8:52:9C
+Valid until: domingo 10 de septiembre de 2051
+----------
+Variant: release
+Config: debug
+Store: C:\Users\migue\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B0:FB:0E:E1:99:10:FD:B6:C9:0E:EC:B3:C2:4D:AE:41
+SHA1: 9C:7D:29:D3:58:33:C6:81:CD:A0:43:C2:F4:97:27:F9:EC:54:2F:F6
+SHA-256: 84:CC:09:2B:A6:00:62:A9:B7:51:1C:5D:6C:90:02:F5:A7:0D:4F:C0:55:31:C5:25:BB:7F:A7:A5:D8:F8:52:9C
+Valid until: domingo 10 de septiembre de 2051
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\migue\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B0:FB:0E:E1:99:10:FD:B6:C9:0E:EC:B3:C2:4D:AE:41
+SHA1: 9C:7D:29:D3:58:33:C6:81:CD:A0:43:C2:F4:97:27:F9:EC:54:2F:F6
+SHA-256: 84:CC:09:2B:A6:00:62:A9:B7:51:1C:5D:6C:90:02:F5:A7:0D:4F:C0:55:31:C5:25:BB:7F:A7:A5:D8:F8:52:9C
+Valid until: domingo 10 de septiembre de 2051
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\migue\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B0:FB:0E:E1:99:10:FD:B6:C9:0E:EC:B3:C2:4D:AE:41
+SHA1: 9C:7D:29:D3:58:33:C6:81:CD:A0:43:C2:F4:97:27:F9:EC:54:2F:F6
+SHA-256: 84:CC:09:2B:A6:00:62:A9:B7:51:1C:5D:6C:90:02:F5:A7:0D:4F:C0:55:31:C5:25:BB:7F:A7:A5:D8:F8:52:9C
+Valid until: domingo 10 de septiembre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\migue\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B0:FB:0E:E1:99:10:FD:B6:C9:0E:EC:B3:C2:4D:AE:41
+SHA1: 9C:7D:29:D3:58:33:C6:81:CD:A0:43:C2:F4:97:27:F9:EC:54:2F:F6
+SHA-256: 84:CC:09:2B:A6:00:62:A9:B7:51:1C:5D:6C:90:02:F5:A7:0D:4F:C0:55:31:C5:25:BB:7F:A7:A5:D8:F8:52:9C
+Valid until: domingo 10 de septiembre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\migue\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B0:FB:0E:E1:99:10:FD:B6:C9:0E:EC:B3:C2:4D:AE:41
+SHA1: 9C:7D:29:D3:58:33:C6:81:CD:A0:43:C2:F4:97:27:F9:EC:54:2F:F6
+SHA-256: 84:CC:09:2B:A6:00:62:A9:B7:51:1C:5D:6C:90:02:F5:A7:0D:4F:C0:55:31:C5:25:BB:7F:A7:A5:D8:F8:52:9C
+Valid until: domingo 10 de septiembre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\migue\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B0:FB:0E:E1:99:10:FD:B6:C9:0E:EC:B3:C2:4D:AE:41
+SHA1: 9C:7D:29:D3:58:33:C6:81:CD:A0:43:C2:F4:97:27:F9:EC:54:2F:F6
+SHA-256: 84:CC:09:2B:A6:00:62:A9:B7:51:1C:5D:6C:90:02:F5:A7:0D:4F:C0:55:31:C5:25:BB:7F:A7:A5:D8:F8:52:9C
+Valid until: domingo 10 de septiembre de 2051
+----------
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.7/userguide/command_line_interface.html#sec:command_line_warnings
+
+BUILD SUCCESSFUL in 2s
+1 actionable task: 1 executed

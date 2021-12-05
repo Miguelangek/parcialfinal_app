@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486148276172",
+    "project_id": "encuesta-e908c",
+    "storage_bucket": "encuesta-e908c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486148276172:android:828ab820aa962384176769",
+        "android_client_info": {
+          "package_name": "com.example.parcial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486148276172-eiq8jvu5jt86f7g0lo0ekbeeeatlg5a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parcial_app",
+            "certificate_hash": "9c7d29d35833c681cda043c2f49727f9ec542ff6"
+          }
+        },
+        {
+          "client_id": "486148276172-b4kd00knm0beq8mkrbjak9sq6asoq9s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoXHh1clZIhekFhOecx358rs9AyD7vYc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486148276172-b4kd00knm0beq8mkrbjak9sq6asoq9s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
